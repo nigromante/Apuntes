@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "8493c4324ca790e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7d5167851c8aab9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "206b1373426920e9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21d57e507903a22d",
+    "type": "split",
+    "children": [
+      {
+        "id": "89d6e668d7ea75f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e094a7e51aab4362",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7debde39c183b2e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#linux",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4bb410139ba3bd17",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2686bf608f82ffc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b23d59513fdac8a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28a5da31fb43e1bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9924d78715c177e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "501cefde068e99e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1f3bd1904747ed74",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": true,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "206b1373426920e9",
+  "lastOpenFiles": [
+    "Proyectos/Las Brisas/HikVision - Artemis Web API.md",
+    "Proyectos/Las Brisas/Pendientes.md",
+    "Programación/RegExp/RegExp Intro.md",
+    "Programación/RegExp/Búsqueda.md",
+    "Obsidian/Tablas.md",
+    "Programación/Tools/Makefile/Common.md",
+    "Obsidian/Obsidian.md",
+    "Programación/Tools/Git.md",
+    "Tools/IRC/IRC Clients.md",
+    "las.md",
+    "Tools/mov-cli.md",
+    "Tools/ani-cli.md",
+    "Tools/TV/Diagnóstico.md",
+    "Tools/IRC/WEECHAT.md",
+    "Tools/IRC/IRRSI.md",
+    "Tools/IRC/HEXCHAT.md",
+    "Programación/Tools/Makefile/Makefile C Project.md",
+    "Programación/Tools/Radare2 Dissasembly/Radare.md",
+    "Programación/Programación.md",
+    "Programación/Tools/Radare2 Dissasembly/Uso básico.md",
+    "Programación/Tools/Radare2 Dissasembly/Plugins.md",
+    "Programación/Tools/Radare2 Dissasembly/Introducción.md",
+    "Programación/Tools/Makefile/Introducción.md",
+    "Programación/C/GDB.md",
+    "Programación/C/GCC.md",
+    "Programación/C/CONAN.md",
+    "Linux",
+    "Tools/TV",
+    "Programación/RegExp",
+    "Tools/ANSIBLE",
+    "Tools/IRC",
+    "Tools",
+    "Programación/Bash/_a.canvas",
+    "Programación/Bash/Script",
+    "Programación/Bash/Comandos",
+    "Programación/Bash/Openssh",
+    "Proyectos/Las Brisas/Sin título.canvas",
+    "Proyectos/Las Brisas",
+    "Sin título.canvas"
+  ]
+}
